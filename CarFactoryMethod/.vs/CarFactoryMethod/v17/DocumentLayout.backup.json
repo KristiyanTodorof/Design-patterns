@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\CarFactoryMethod\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7581DD8-C890-4548-8DCC-EB0DADEDDA70}|CarFactoryMethod\\CarFactoryMethod.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\carfactorymethod\\carfactorymethod\\factories\\bicyclefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7581DD8-C890-4548-8DCC-EB0DADEDDA70}|CarFactoryMethod\\CarFactoryMethod.csproj|solutionrelative:carfactorymethod\\factories\\bicyclefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7581DD8-C890-4548-8DCC-EB0DADEDDA70}|CarFactoryMethod\\CarFactoryMethod.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\carfactorymethod\\carfactorymethod\\factories\\carfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7581DD8-C890-4548-8DCC-EB0DADEDDA70}|CarFactoryMethod\\CarFactoryMethod.csproj|solutionrelative:carfactorymethod\\factories\\carfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7581DD8-C890-4548-8DCC-EB0DADEDDA70}|CarFactoryMethod\\CarFactoryMethod.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\carfactorymethod\\carfactorymethod\\factories\\motorcyclefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7581DD8-C890-4548-8DCC-EB0DADEDDA70}|CarFactoryMethod\\CarFactoryMethod.csproj|solutionrelative:carfactorymethod\\factories\\motorcyclefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7581DD8-C890-4548-8DCC-EB0DADEDDA70}|CarFactoryMethod\\CarFactoryMethod.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\carfactorymethod\\carfactorymethod\\factories\\vehiclefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7581DD8-C890-4548-8DCC-EB0DADEDDA70}|CarFactoryMethod\\CarFactoryMethod.csproj|solutionrelative:carfactorymethod\\factories\\vehiclefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B0161C-ED58-4EEC-A203-6469A5CE0B55}|AnimalsFactoryMethod\\AnimalsFactoryMethod.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\carfactorymethod\\animalsfactorymethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78B0161C-ED58-4EEC-A203-6469A5CE0B55}|AnimalsFactoryMethod\\AnimalsFactoryMethod.csproj|solutionrelative:animalsfactorymethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B0161C-ED58-4EEC-A203-6469A5CE0B55}|AnimalsFactoryMethod\\AnimalsFactoryMethod.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\carfactorymethod\\animalsfactorymethod\\factories\\animalfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78B0161C-ED58-4EEC-A203-6469A5CE0B55}|AnimalsFactoryMethod\\AnimalsFactoryMethod.csproj|solutionrelative:animalsfactorymethod\\factories\\animalfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B0161C-ED58-4EEC-A203-6469A5CE0B55}|AnimalsFactoryMethod\\AnimalsFactoryMethod.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\carfactorymethod\\animalsfactorymethod\\factories\\tigerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78B0161C-ED58-4EEC-A203-6469A5CE0B55}|AnimalsFactoryMethod\\AnimalsFactoryMethod.csproj|solutionrelative:animalsfactorymethod\\factories\\tigerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B0161C-ED58-4EEC-A203-6469A5CE0B55}|AnimalsFactoryMethod\\AnimalsFactoryMethod.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\carfactorymethod\\animalsfactorymethod\\factories\\pandafactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78B0161C-ED58-4EEC-A203-6469A5CE0B55}|AnimalsFactoryMethod\\AnimalsFactoryMethod.csproj|solutionrelative:animalsfactorymethod\\factories\\pandafactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B0161C-ED58-4EEC-A203-6469A5CE0B55}|AnimalsFactoryMethod\\AnimalsFactoryMethod.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\carfactorymethod\\animalsfactorymethod\\factories\\giraffefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78B0161C-ED58-4EEC-A203-6469A5CE0B55}|AnimalsFactoryMethod\\AnimalsFactoryMethod.csproj|solutionrelative:animalsfactorymethod\\factories\\giraffefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7581DD8-C890-4548-8DCC-EB0DADEDDA70}|CarFactoryMethod\\CarFactoryMethod.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\carfactorymethod\\carfactorymethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7581DD8-C890-4548-8DCC-EB0DADEDDA70}|CarFactoryMethod\\CarFactoryMethod.csproj|solutionrelative:carfactorymethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B0161C-ED58-4EEC-A203-6469A5CE0B55}|AnimalsFactoryMethod\\AnimalsFactoryMethod.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\carfactorymethod\\animalsfactorymethod\\models\\tiger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78B0161C-ED58-4EEC-A203-6469A5CE0B55}|AnimalsFactoryMethod\\AnimalsFactoryMethod.csproj|solutionrelative:animalsfactorymethod\\models\\tiger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B0161C-ED58-4EEC-A203-6469A5CE0B55}|AnimalsFactoryMethod\\AnimalsFactoryMethod.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\carfactorymethod\\animalsfactorymethod\\models\\panda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78B0161C-ED58-4EEC-A203-6469A5CE0B55}|AnimalsFactoryMethod\\AnimalsFactoryMethod.csproj|solutionrelative:animalsfactorymethod\\models\\panda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B0161C-ED58-4EEC-A203-6469A5CE0B55}|AnimalsFactoryMethod\\AnimalsFactoryMethod.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\carfactorymethod\\animalsfactorymethod\\models\\giraffe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78B0161C-ED58-4EEC-A203-6469A5CE0B55}|AnimalsFactoryMethod\\AnimalsFactoryMethod.csproj|solutionrelative:animalsfactorymethod\\models\\giraffe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B0161C-ED58-4EEC-A203-6469A5CE0B55}|AnimalsFactoryMethod\\AnimalsFactoryMethod.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\carfactorymethod\\animalsfactorymethod\\interfaces\\ianimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78B0161C-ED58-4EEC-A203-6469A5CE0B55}|AnimalsFactoryMethod\\AnimalsFactoryMethod.csproj|solutionrelative:animalsfactorymethod\\interfaces\\ianimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7581DD8-C890-4548-8DCC-EB0DADEDDA70}|CarFactoryMethod\\CarFactoryMethod.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\carfactorymethod\\carfactorymethod\\interfaces\\ivehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7581DD8-C890-4548-8DCC-EB0DADEDDA70}|CarFactoryMethod\\CarFactoryMethod.csproj|solutionrelative:carfactorymethod\\interfaces\\ivehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7581DD8-C890-4548-8DCC-EB0DADEDDA70}|CarFactoryMethod\\CarFactoryMethod.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\carfactorymethod\\carfactorymethod\\models\\bicycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7581DD8-C890-4548-8DCC-EB0DADEDDA70}|CarFactoryMethod\\CarFactoryMethod.csproj|solutionrelative:carfactorymethod\\models\\bicycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7581DD8-C890-4548-8DCC-EB0DADEDDA70}|CarFactoryMethod\\CarFactoryMethod.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\carfactorymethod\\carfactorymethod\\models\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7581DD8-C890-4548-8DCC-EB0DADEDDA70}|CarFactoryMethod\\CarFactoryMethod.csproj|solutionrelative:carfactorymethod\\models\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7581DD8-C890-4548-8DCC-EB0DADEDDA70}|CarFactoryMethod\\CarFactoryMethod.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\carfactorymethod\\carfactorymethod\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7581DD8-C890-4548-8DCC-EB0DADEDDA70}|CarFactoryMethod\\CarFactoryMethod.csproj|solutionrelative:carfactorymethod\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Giraffe.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\CarFactoryMethod\\AnimalsFactoryMethod\\Models\\Giraffe.cs",
+              "RelativeDocumentMoniker": "AnimalsFactoryMethod\\Models\\Giraffe.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\CarFactoryMethod\\AnimalsFactoryMethod\\Models\\Giraffe.cs",
+              "RelativeToolTip": "AnimalsFactoryMethod\\Models\\Giraffe.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T17:18:27.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Tiger.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\CarFactoryMethod\\AnimalsFactoryMethod\\Models\\Tiger.cs",
+              "RelativeDocumentMoniker": "AnimalsFactoryMethod\\Models\\Tiger.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\CarFactoryMethod\\AnimalsFactoryMethod\\Models\\Tiger.cs",
+              "RelativeToolTip": "AnimalsFactoryMethod\\Models\\Tiger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T17:16:36.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Panda.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\CarFactoryMethod\\AnimalsFactoryMethod\\Models\\Panda.cs",
+              "RelativeDocumentMoniker": "AnimalsFactoryMethod\\Models\\Panda.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\CarFactoryMethod\\AnimalsFactoryMethod\\Models\\Panda.cs",
+              "RelativeToolTip": "AnimalsFactoryMethod\\Models\\Panda.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T17:14:04.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\CarFactoryMethod\\AnimalsFactoryMethod\\Program.cs",
+              "RelativeDocumentMoniker": "AnimalsFactoryMethod\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\CarFactoryMethod\\AnimalsFactoryMethod\\Program.cs",
+              "RelativeToolTip": "AnimalsFactoryMethod\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T17:12:34.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\CarFactoryMethod\\CarFactoryMethod\\Program.cs",
+              "RelativeDocumentMoniker": "CarFactoryMethod\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\CarFactoryMethod\\CarFactoryMethod\\Program.cs",
+              "RelativeToolTip": "CarFactoryMethod\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T16:53:46.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VehicleFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\CarFactoryMethod\\CarFactoryMethod\\Factories\\VehicleFactory.cs",
+              "RelativeDocumentMoniker": "CarFactoryMethod\\Factories\\VehicleFactory.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\CarFactoryMethod\\CarFactoryMethod\\Factories\\VehicleFactory.cs",
+              "RelativeToolTip": "CarFactoryMethod\\Factories\\VehicleFactory.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T17:00:44.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MotorcycleFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\CarFactoryMethod\\CarFactoryMethod\\Factories\\MotorcycleFactory.cs",
+              "RelativeDocumentMoniker": "CarFactoryMethod\\Factories\\MotorcycleFactory.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\CarFactoryMethod\\CarFactoryMethod\\Factories\\MotorcycleFactory.cs",
+              "RelativeToolTip": "CarFactoryMethod\\Factories\\MotorcycleFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T17:03:51.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\CarFactoryMethod\\CarFactoryMethod\\Factories\\CarFactory.cs",
+              "RelativeDocumentMoniker": "CarFactoryMethod\\Factories\\CarFactory.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\CarFactoryMethod\\CarFactoryMethod\\Factories\\CarFactory.cs",
+              "RelativeToolTip": "CarFactoryMethod\\Factories\\CarFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T17:03:08.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BicycleFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\CarFactoryMethod\\CarFactoryMethod\\Factories\\BicycleFactory.cs",
+              "RelativeDocumentMoniker": "CarFactoryMethod\\Factories\\BicycleFactory.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\CarFactoryMethod\\CarFactoryMethod\\Factories\\BicycleFactory.cs",
+              "RelativeToolTip": "CarFactoryMethod\\Factories\\BicycleFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T17:04:55.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AnimalFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\CarFactoryMethod\\AnimalsFactoryMethod\\Factories\\AnimalFactory.cs",
+              "RelativeDocumentMoniker": "AnimalsFactoryMethod\\Factories\\AnimalFactory.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\CarFactoryMethod\\AnimalsFactoryMethod\\Factories\\AnimalFactory.cs",
+              "RelativeToolTip": "AnimalsFactoryMethod\\Factories\\AnimalFactory.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T17:20:45.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GiraffeFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\CarFactoryMethod\\AnimalsFactoryMethod\\Factories\\GiraffeFactory.cs",
+              "RelativeDocumentMoniker": "AnimalsFactoryMethod\\Factories\\GiraffeFactory.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\CarFactoryMethod\\AnimalsFactoryMethod\\Factories\\GiraffeFactory.cs",
+              "RelativeToolTip": "AnimalsFactoryMethod\\Factories\\GiraffeFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T17:25:05.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PandaFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\CarFactoryMethod\\AnimalsFactoryMethod\\Factories\\PandaFactory.cs",
+              "RelativeDocumentMoniker": "AnimalsFactoryMethod\\Factories\\PandaFactory.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\CarFactoryMethod\\AnimalsFactoryMethod\\Factories\\PandaFactory.cs",
+              "RelativeToolTip": "AnimalsFactoryMethod\\Factories\\PandaFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T17:25:45.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TigerFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\CarFactoryMethod\\AnimalsFactoryMethod\\Factories\\TigerFactory.cs",
+              "RelativeDocumentMoniker": "AnimalsFactoryMethod\\Factories\\TigerFactory.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\CarFactoryMethod\\AnimalsFactoryMethod\\Factories\\TigerFactory.cs",
+              "RelativeToolTip": "AnimalsFactoryMethod\\Factories\\TigerFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T17:26:25.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IAnimal.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\CarFactoryMethod\\AnimalsFactoryMethod\\Interfaces\\IAnimal.cs",
+              "RelativeDocumentMoniker": "AnimalsFactoryMethod\\Interfaces\\IAnimal.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\CarFactoryMethod\\AnimalsFactoryMethod\\Interfaces\\IAnimal.cs",
+              "RelativeToolTip": "AnimalsFactoryMethod\\Interfaces\\IAnimal.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T17:12:57.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Bicycle.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\CarFactoryMethod\\CarFactoryMethod\\Models\\Bicycle.cs",
+              "RelativeDocumentMoniker": "CarFactoryMethod\\Models\\Bicycle.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\CarFactoryMethod\\CarFactoryMethod\\Models\\Bicycle.cs",
+              "RelativeToolTip": "CarFactoryMethod\\Models\\Bicycle.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T16:59:02.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Motorcycle.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\CarFactoryMethod\\CarFactoryMethod\\Models\\Motorcycle.cs",
+              "RelativeDocumentMoniker": "CarFactoryMethod\\Models\\Motorcycle.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\CarFactoryMethod\\CarFactoryMethod\\Models\\Motorcycle.cs",
+              "RelativeToolTip": "CarFactoryMethod\\Models\\Motorcycle.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T16:57:14.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\CarFactoryMethod\\CarFactoryMethod\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "CarFactoryMethod\\Models\\Car.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\CarFactoryMethod\\CarFactoryMethod\\Models\\Car.cs",
+              "RelativeToolTip": "CarFactoryMethod\\Models\\Car.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T16:55:44.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IVehicle.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\CarFactoryMethod\\CarFactoryMethod\\Interfaces\\IVehicle.cs",
+              "RelativeDocumentMoniker": "CarFactoryMethod\\Interfaces\\IVehicle.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\CarFactoryMethod\\CarFactoryMethod\\Interfaces\\IVehicle.cs",
+              "RelativeToolTip": "CarFactoryMethod\\Interfaces\\IVehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T16:54:56.819Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

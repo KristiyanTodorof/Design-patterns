@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\CarFactoryMethod\AnimalsFactoryMethod\bin\Debug\net8.0\AnimalsFactoryMethod.exe
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\CarFactoryMethod\AnimalsFactoryMethod\bin\Debug\net8.0\AnimalsFactoryMethod.deps.json
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\CarFactoryMethod\AnimalsFactoryMethod\bin\Debug\net8.0\AnimalsFactoryMethod.runtimeconfig.json
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\CarFactoryMethod\AnimalsFactoryMethod\bin\Debug\net8.0\AnimalsFactoryMethod.dll
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\CarFactoryMethod\AnimalsFactoryMethod\bin\Debug\net8.0\AnimalsFactoryMethod.pdb
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\CarFactoryMethod\AnimalsFactoryMethod\obj\Debug\net8.0\AnimalsFactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\CarFactoryMethod\AnimalsFactoryMethod\obj\Debug\net8.0\AnimalsFactoryMethod.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\CarFactoryMethod\AnimalsFactoryMethod\obj\Debug\net8.0\AnimalsFactoryMethod.AssemblyInfo.cs
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\CarFactoryMethod\AnimalsFactoryMethod\obj\Debug\net8.0\AnimalsFactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\CarFactoryMethod\AnimalsFactoryMethod\obj\Debug\net8.0\AnimalsFactoryMethod.dll
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\CarFactoryMethod\AnimalsFactoryMethod\obj\Debug\net8.0\refint\AnimalsFactoryMethod.dll
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\CarFactoryMethod\AnimalsFactoryMethod\obj\Debug\net8.0\AnimalsFactoryMethod.pdb
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\CarFactoryMethod\AnimalsFactoryMethod\obj\Debug\net8.0\AnimalsFactoryMethod.genruntimeconfig.cache
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\CarFactoryMethod\AnimalsFactoryMethod\obj\Debug\net8.0\ref\AnimalsFactoryMethod.dll

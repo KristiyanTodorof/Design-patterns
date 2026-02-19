@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\CarFactoryMethod\CarFactoryMethod\bin\Debug\net8.0\CarFactoryMethod.exe
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\CarFactoryMethod\CarFactoryMethod\bin\Debug\net8.0\CarFactoryMethod.deps.json
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\CarFactoryMethod\CarFactoryMethod\bin\Debug\net8.0\CarFactoryMethod.runtimeconfig.json
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\CarFactoryMethod\CarFactoryMethod\bin\Debug\net8.0\CarFactoryMethod.dll
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\CarFactoryMethod\CarFactoryMethod\bin\Debug\net8.0\CarFactoryMethod.pdb
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\CarFactoryMethod\CarFactoryMethod\obj\Debug\net8.0\CarFactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\CarFactoryMethod\CarFactoryMethod\obj\Debug\net8.0\CarFactoryMethod.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\CarFactoryMethod\CarFactoryMethod\obj\Debug\net8.0\CarFactoryMethod.AssemblyInfo.cs
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\CarFactoryMethod\CarFactoryMethod\obj\Debug\net8.0\CarFactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\CarFactoryMethod\CarFactoryMethod\obj\Debug\net8.0\CarFactoryMethod.dll
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\CarFactoryMethod\CarFactoryMethod\obj\Debug\net8.0\refint\CarFactoryMethod.dll
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\CarFactoryMethod\CarFactoryMethod\obj\Debug\net8.0\CarFactoryMethod.pdb
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\CarFactoryMethod\CarFactoryMethod\obj\Debug\net8.0\CarFactoryMethod.genruntimeconfig.cache
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\CarFactoryMethod\CarFactoryMethod\obj\Debug\net8.0\ref\CarFactoryMethod.dll
