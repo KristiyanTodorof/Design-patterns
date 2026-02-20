@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\AirTraffic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA8FDB1-8795-4027-8F54-0905CAABF16C}|AirTraffic\\AirTraffic.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\airtraffic\\airtraffic\\passengers\\premiumpassengerstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA8FDB1-8795-4027-8F54-0905CAABF16C}|AirTraffic\\AirTraffic.csproj|solutionrelative:airtraffic\\passengers\\premiumpassengerstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA8FDB1-8795-4027-8F54-0905CAABF16C}|AirTraffic\\AirTraffic.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\airtraffic\\airtraffic\\passengers\\advancedpassengerstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA8FDB1-8795-4027-8F54-0905CAABF16C}|AirTraffic\\AirTraffic.csproj|solutionrelative:airtraffic\\passengers\\advancedpassengerstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA8FDB1-8795-4027-8F54-0905CAABF16C}|AirTraffic\\AirTraffic.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\airtraffic\\airtraffic\\passengers\\standardpassengerstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA8FDB1-8795-4027-8F54-0905CAABF16C}|AirTraffic\\AirTraffic.csproj|solutionrelative:airtraffic\\passengers\\standardpassengerstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA8FDB1-8795-4027-8F54-0905CAABF16C}|AirTraffic\\AirTraffic.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\airtraffic\\airtraffic\\passengers\\ipassengerstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA8FDB1-8795-4027-8F54-0905CAABF16C}|AirTraffic\\AirTraffic.csproj|solutionrelative:airtraffic\\passengers\\ipassengerstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA8FDB1-8795-4027-8F54-0905CAABF16C}|AirTraffic\\AirTraffic.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\airtraffic\\airtraffic\\models\\tower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA8FDB1-8795-4027-8F54-0905CAABF16C}|AirTraffic\\AirTraffic.csproj|solutionrelative:airtraffic\\models\\tower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA8FDB1-8795-4027-8F54-0905CAABF16C}|AirTraffic\\AirTraffic.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\airtraffic\\airtraffic\\models\\aircraft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA8FDB1-8795-4027-8F54-0905CAABF16C}|AirTraffic\\AirTraffic.csproj|solutionrelative:airtraffic\\models\\aircraft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA8FDB1-8795-4027-8F54-0905CAABF16C}|AirTraffic\\AirTraffic.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\airtraffic\\airtraffic\\airtraffics\\airtrafficparticipant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA8FDB1-8795-4027-8F54-0905CAABF16C}|AirTraffic\\AirTraffic.csproj|solutionrelative:airtraffic\\airtraffics\\airtrafficparticipant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA8FDB1-8795-4027-8F54-0905CAABF16C}|AirTraffic\\AirTraffic.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\airtraffic\\airtraffic\\airtraffics\\airtrafficcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA8FDB1-8795-4027-8F54-0905CAABF16C}|AirTraffic\\AirTraffic.csproj|solutionrelative:airtraffic\\airtraffics\\airtrafficcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA8FDB1-8795-4027-8F54-0905CAABF16C}|AirTraffic\\AirTraffic.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\airtraffic\\airtraffic\\airtraffics\\iairtrafficmediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA8FDB1-8795-4027-8F54-0905CAABF16C}|AirTraffic\\AirTraffic.csproj|solutionrelative:airtraffic\\airtraffics\\iairtrafficmediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA8FDB1-8795-4027-8F54-0905CAABF16C}|AirTraffic\\AirTraffic.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\airtraffic\\airtraffic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA8FDB1-8795-4027-8F54-0905CAABF16C}|AirTraffic\\AirTraffic.csproj|solutionrelative:airtraffic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA8FDB1-8795-4027-8F54-0905CAABF16C}|AirTraffic\\AirTraffic.csproj|C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\AirTraffic\\airtraffic\\passenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA8FDB1-8795-4027-8F54-0905CAABF16C}|AirTraffic\\AirTraffic.csproj|solutionrelative:airtraffic\\passenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PremiumPassengerState.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\AirTraffic\\AirTraffic\\Passengers\\PremiumPassengerState.cs",
+              "RelativeDocumentMoniker": "AirTraffic\\Passengers\\PremiumPassengerState.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\AirTraffic\\AirTraffic\\Passengers\\PremiumPassengerState.cs",
+              "RelativeToolTip": "AirTraffic\\Passengers\\PremiumPassengerState.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA9wBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T06:28:04.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdvancedPassengerState.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\AirTraffic\\AirTraffic\\Passengers\\AdvancedPassengerState.cs",
+              "RelativeDocumentMoniker": "AirTraffic\\Passengers\\AdvancedPassengerState.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\AirTraffic\\AirTraffic\\Passengers\\AdvancedPassengerState.cs",
+              "RelativeToolTip": "AirTraffic\\Passengers\\AdvancedPassengerState.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABEAAAC9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T06:23:18.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StandardPassengerState.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\AirTraffic\\AirTraffic\\Passengers\\StandardPassengerState.cs",
+              "RelativeDocumentMoniker": "AirTraffic\\Passengers\\StandardPassengerState.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\AirTraffic\\AirTraffic\\Passengers\\StandardPassengerState.cs",
+              "RelativeToolTip": "AirTraffic\\Passengers\\StandardPassengerState.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T06:13:42.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPassengerState.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\AirTraffic\\AirTraffic\\Passengers\\IPassengerState.cs",
+              "RelativeDocumentMoniker": "AirTraffic\\Passengers\\IPassengerState.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\AirTraffic\\AirTraffic\\Passengers\\IPassengerState.cs",
+              "RelativeToolTip": "AirTraffic\\Passengers\\IPassengerState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T06:09:16.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AirTrafficParticipant.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\AirTraffic\\AirTraffic\\AirTraffics\\AirTrafficParticipant.cs",
+              "RelativeDocumentMoniker": "AirTraffic\\AirTraffics\\AirTrafficParticipant.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\AirTraffic\\AirTraffic\\AirTraffics\\AirTrafficParticipant.cs",
+              "RelativeToolTip": "AirTraffic\\AirTraffics\\AirTrafficParticipant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T06:16:14.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AirTrafficControl.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\AirTraffic\\AirTraffic\\AirTraffics\\AirTrafficControl.cs",
+              "RelativeDocumentMoniker": "AirTraffic\\AirTraffics\\AirTrafficControl.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\AirTraffic\\AirTraffic\\AirTraffics\\AirTrafficControl.cs",
+              "RelativeToolTip": "AirTraffic\\AirTraffics\\AirTrafficControl.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAABcAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T06:13:23.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Aircraft.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\AirTraffic\\AirTraffic\\Models\\Aircraft.cs",
+              "RelativeDocumentMoniker": "AirTraffic\\Models\\Aircraft.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\AirTraffic\\AirTraffic\\Models\\Aircraft.cs",
+              "RelativeToolTip": "AirTraffic\\Models\\Aircraft.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAACsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T06:10:10.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Passenger.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\AirTraffic\\AirTraffic\\Passenger.cs",
+              "RelativeDocumentMoniker": "AirTraffic\\Passenger.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\AirTraffic\\AirTraffic\\Passenger.cs",
+              "RelativeToolTip": "AirTraffic\\Passenger.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAowCMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T06:09:51.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tower.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\AirTraffic\\AirTraffic\\Models\\Tower.cs",
+              "RelativeDocumentMoniker": "AirTraffic\\Models\\Tower.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\AirTraffic\\AirTraffic\\Models\\Tower.cs",
+              "RelativeToolTip": "AirTraffic\\Models\\Tower.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T06:09:22.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IAirTrafficMediator.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\AirTraffic\\AirTraffic\\AirTraffics\\IAirTrafficMediator.cs",
+              "RelativeDocumentMoniker": "AirTraffic\\AirTraffics\\IAirTrafficMediator.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\AirTraffic\\AirTraffic\\AirTraffics\\IAirTrafficMediator.cs",
+              "RelativeToolTip": "AirTraffic\\AirTraffics\\IAirTrafficMediator.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T06:08:02.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\AirTraffic\\AirTraffic\\Program.cs",
+              "RelativeDocumentMoniker": "AirTraffic\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\AirTraffic\\AirTraffic\\Program.cs",
+              "RelativeToolTip": "AirTraffic\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T06:03:55.867Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

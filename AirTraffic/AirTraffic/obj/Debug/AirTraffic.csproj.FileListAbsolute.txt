@@ -1,0 +1,7 @@
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\AirTraffic\AirTraffic\bin\Debug\AirTraffic.exe.config
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\AirTraffic\AirTraffic\bin\Debug\AirTraffic.exe
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\AirTraffic\AirTraffic\bin\Debug\AirTraffic.pdb
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\AirTraffic\AirTraffic\obj\Debug\AirTraffic.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\AirTraffic\AirTraffic\obj\Debug\AirTraffic.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\AirTraffic\AirTraffic\obj\Debug\AirTraffic.exe
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\AirTraffic\AirTraffic\obj\Debug\AirTraffic.pdb
