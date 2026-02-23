@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimalRegistrySingleton", "AnimalRegistrySingleton\AnimalRegistrySingleton.csproj", "{77F9B290-E13E-4C7C-AE91-A892D2C5D982}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarRegistrySingleton", "CarRegistrySingleton\CarRegistrySingleton.csproj", "{A45D4A4B-C618-4E38-8B53-310FE40D9D3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77F9B290-E13E-4C7C-AE91-A892D2C5D982}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77F9B290-E13E-4C7C-AE91-A892D2C5D982}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77F9B290-E13E-4C7C-AE91-A892D2C5D982}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77F9B290-E13E-4C7C-AE91-A892D2C5D982}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A45D4A4B-C618-4E38-8B53-310FE40D9D3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A45D4A4B-C618-4E38-8B53-310FE40D9D3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A45D4A4B-C618-4E38-8B53-310FE40D9D3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A45D4A4B-C618-4E38-8B53-310FE40D9D3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9823B0E3-8CD8-456C-92F7-EC26FE3538EF}
+	EndGlobalSection
+EndGlobal

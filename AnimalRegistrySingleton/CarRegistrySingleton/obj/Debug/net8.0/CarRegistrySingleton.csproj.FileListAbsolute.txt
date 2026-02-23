@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\AnimalRegistrySingleton\CarRegistrySingleton\bin\Debug\net8.0\CarRegistrySingleton.exe
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\AnimalRegistrySingleton\CarRegistrySingleton\bin\Debug\net8.0\CarRegistrySingleton.deps.json
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\AnimalRegistrySingleton\CarRegistrySingleton\bin\Debug\net8.0\CarRegistrySingleton.runtimeconfig.json
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\AnimalRegistrySingleton\CarRegistrySingleton\bin\Debug\net8.0\CarRegistrySingleton.dll
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\AnimalRegistrySingleton\CarRegistrySingleton\bin\Debug\net8.0\CarRegistrySingleton.pdb
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\AnimalRegistrySingleton\CarRegistrySingleton\obj\Debug\net8.0\CarRegistrySingleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\AnimalRegistrySingleton\CarRegistrySingleton\obj\Debug\net8.0\CarRegistrySingleton.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\AnimalRegistrySingleton\CarRegistrySingleton\obj\Debug\net8.0\CarRegistrySingleton.AssemblyInfo.cs
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\AnimalRegistrySingleton\CarRegistrySingleton\obj\Debug\net8.0\CarRegistrySingleton.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\AnimalRegistrySingleton\CarRegistrySingleton\obj\Debug\net8.0\CarRegistrySingleton.dll
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\AnimalRegistrySingleton\CarRegistrySingleton\obj\Debug\net8.0\refint\CarRegistrySingleton.dll
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\AnimalRegistrySingleton\CarRegistrySingleton\obj\Debug\net8.0\CarRegistrySingleton.pdb
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\AnimalRegistrySingleton\CarRegistrySingleton\obj\Debug\net8.0\CarRegistrySingleton.genruntimeconfig.cache
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\AnimalRegistrySingleton\CarRegistrySingleton\obj\Debug\net8.0\ref\CarRegistrySingleton.dll

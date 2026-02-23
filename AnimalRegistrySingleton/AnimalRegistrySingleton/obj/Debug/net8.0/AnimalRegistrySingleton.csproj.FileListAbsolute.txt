@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\AnimalRegistrySingleton\AnimalRegistrySingleton\bin\Debug\net8.0\AnimalRegistrySingleton.exe
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\AnimalRegistrySingleton\AnimalRegistrySingleton\bin\Debug\net8.0\AnimalRegistrySingleton.deps.json
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\AnimalRegistrySingleton\AnimalRegistrySingleton\bin\Debug\net8.0\AnimalRegistrySingleton.runtimeconfig.json
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\AnimalRegistrySingleton\AnimalRegistrySingleton\bin\Debug\net8.0\AnimalRegistrySingleton.dll
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\AnimalRegistrySingleton\AnimalRegistrySingleton\bin\Debug\net8.0\AnimalRegistrySingleton.pdb
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\AnimalRegistrySingleton\AnimalRegistrySingleton\obj\Debug\net8.0\AnimalRegistrySingleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\AnimalRegistrySingleton\AnimalRegistrySingleton\obj\Debug\net8.0\AnimalRegistrySingleton.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\AnimalRegistrySingleton\AnimalRegistrySingleton\obj\Debug\net8.0\AnimalRegistrySingleton.AssemblyInfo.cs
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\AnimalRegistrySingleton\AnimalRegistrySingleton\obj\Debug\net8.0\AnimalRegistrySingleton.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\AnimalRegistrySingleton\AnimalRegistrySingleton\obj\Debug\net8.0\AnimalRegistrySingleton.dll
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\AnimalRegistrySingleton\AnimalRegistrySingleton\obj\Debug\net8.0\refint\AnimalRegistrySingleton.dll
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\AnimalRegistrySingleton\AnimalRegistrySingleton\obj\Debug\net8.0\AnimalRegistrySingleton.pdb
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\AnimalRegistrySingleton\AnimalRegistrySingleton\obj\Debug\net8.0\AnimalRegistrySingleton.genruntimeconfig.cache
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\AnimalRegistrySingleton\AnimalRegistrySingleton\obj\Debug\net8.0\ref\AnimalRegistrySingleton.dll
