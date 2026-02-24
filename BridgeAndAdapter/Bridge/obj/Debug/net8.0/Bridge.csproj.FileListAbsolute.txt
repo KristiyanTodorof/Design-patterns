@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\BridgeAndAdapter\Bridge\bin\Debug\net8.0\Bridge.exe
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\BridgeAndAdapter\Bridge\bin\Debug\net8.0\Bridge.deps.json
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\BridgeAndAdapter\Bridge\bin\Debug\net8.0\Bridge.runtimeconfig.json
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\BridgeAndAdapter\Bridge\bin\Debug\net8.0\Bridge.dll
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\BridgeAndAdapter\Bridge\bin\Debug\net8.0\Bridge.pdb
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\BridgeAndAdapter\Bridge\obj\Debug\net8.0\Bridge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\BridgeAndAdapter\Bridge\obj\Debug\net8.0\Bridge.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\BridgeAndAdapter\Bridge\obj\Debug\net8.0\Bridge.AssemblyInfo.cs
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\BridgeAndAdapter\Bridge\obj\Debug\net8.0\Bridge.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\BridgeAndAdapter\Bridge\obj\Debug\net8.0\Bridge.dll
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\BridgeAndAdapter\Bridge\obj\Debug\net8.0\refint\Bridge.dll
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\BridgeAndAdapter\Bridge\obj\Debug\net8.0\Bridge.pdb
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\BridgeAndAdapter\Bridge\obj\Debug\net8.0\Bridge.genruntimeconfig.cache
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\BridgeAndAdapter\Bridge\obj\Debug\net8.0\ref\Bridge.dll
