@@ -1,0 +1,343 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\CarManufacturing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19D41BC9-0785-4B7D-92AD-4C7462E0D30C}|CarManufacturing\\CarManufacturing.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\carmanufacturing\\carmanufacturing\\interfaces\\icar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19D41BC9-0785-4B7D-92AD-4C7462E0D30C}|CarManufacturing\\CarManufacturing.csproj|solutionrelative:carmanufacturing\\interfaces\\icar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19D41BC9-0785-4B7D-92AD-4C7462E0D30C}|CarManufacturing\\CarManufacturing.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\carmanufacturing\\carmanufacturing\\services\\carmanufacturingsimulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19D41BC9-0785-4B7D-92AD-4C7462E0D30C}|CarManufacturing\\CarManufacturing.csproj|solutionrelative:carmanufacturing\\services\\carmanufacturingsimulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19D41BC9-0785-4B7D-92AD-4C7462E0D30C}|CarManufacturing\\CarManufacturing.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\carmanufacturing\\carmanufacturing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19D41BC9-0785-4B7D-92AD-4C7462E0D30C}|CarManufacturing\\CarManufacturing.csproj|solutionrelative:carmanufacturing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19D41BC9-0785-4B7D-92AD-4C7462E0D30C}|CarManufacturing\\CarManufacturing.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\carmanufacturing\\carmanufacturing\\models\\cars\\europeans\\europeaneconomycar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19D41BC9-0785-4B7D-92AD-4C7462E0D30C}|CarManufacturing\\CarManufacturing.csproj|solutionrelative:carmanufacturing\\models\\cars\\europeans\\europeaneconomycar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19D41BC9-0785-4B7D-92AD-4C7462E0D30C}|CarManufacturing\\CarManufacturing.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\carmanufacturing\\carmanufacturing\\factories\\asiancarfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19D41BC9-0785-4B7D-92AD-4C7462E0D30C}|CarManufacturing\\CarManufacturing.csproj|solutionrelative:carmanufacturing\\factories\\asiancarfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19D41BC9-0785-4B7D-92AD-4C7462E0D30C}|CarManufacturing\\CarManufacturing.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\carmanufacturing\\carmanufacturing\\interfaces\\icarfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19D41BC9-0785-4B7D-92AD-4C7462E0D30C}|CarManufacturing\\CarManufacturing.csproj|solutionrelative:carmanufacturing\\interfaces\\icarfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19D41BC9-0785-4B7D-92AD-4C7462E0D30C}|CarManufacturing\\CarManufacturing.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\carmanufacturing\\carmanufacturing\\models\\cars\\europeans\\europeanluxurycar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19D41BC9-0785-4B7D-92AD-4C7462E0D30C}|CarManufacturing\\CarManufacturing.csproj|solutionrelative:carmanufacturing\\models\\cars\\europeans\\europeanluxurycar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19D41BC9-0785-4B7D-92AD-4C7462E0D30C}|CarManufacturing\\CarManufacturing.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\carmanufacturing\\carmanufacturing\\models\\engines\\europeans\\europeansportsengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19D41BC9-0785-4B7D-92AD-4C7462E0D30C}|CarManufacturing\\CarManufacturing.csproj|solutionrelative:carmanufacturing\\models\\engines\\europeans\\europeansportsengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19D41BC9-0785-4B7D-92AD-4C7462E0D30C}|CarManufacturing\\CarManufacturing.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\carmanufacturing\\carmanufacturing\\models\\engines\\europeans\\europeanluxuryengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19D41BC9-0785-4B7D-92AD-4C7462E0D30C}|CarManufacturing\\CarManufacturing.csproj|solutionrelative:carmanufacturing\\models\\engines\\europeans\\europeanluxuryengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19D41BC9-0785-4B7D-92AD-4C7462E0D30C}|CarManufacturing\\CarManufacturing.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\carmanufacturing\\carmanufacturing\\models\\engines\\europeans\\europeaneconomyengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19D41BC9-0785-4B7D-92AD-4C7462E0D30C}|CarManufacturing\\CarManufacturing.csproj|solutionrelative:carmanufacturing\\models\\engines\\europeans\\europeaneconomyengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19D41BC9-0785-4B7D-92AD-4C7462E0D30C}|CarManufacturing\\CarManufacturing.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\carmanufacturing\\carmanufacturing\\models\\engines\\asians\\asianssportsengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19D41BC9-0785-4B7D-92AD-4C7462E0D30C}|CarManufacturing\\CarManufacturing.csproj|solutionrelative:carmanufacturing\\models\\engines\\asians\\asianssportsengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19D41BC9-0785-4B7D-92AD-4C7462E0D30C}|CarManufacturing\\CarManufacturing.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\carmanufacturing\\carmanufacturing\\models\\engines\\asians\\asianluxuryengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19D41BC9-0785-4B7D-92AD-4C7462E0D30C}|CarManufacturing\\CarManufacturing.csproj|solutionrelative:carmanufacturing\\models\\engines\\asians\\asianluxuryengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19D41BC9-0785-4B7D-92AD-4C7462E0D30C}|CarManufacturing\\CarManufacturing.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\carmanufacturing\\carmanufacturing\\models\\engines\\asians\\asianeconomyengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19D41BC9-0785-4B7D-92AD-4C7462E0D30C}|CarManufacturing\\CarManufacturing.csproj|solutionrelative:carmanufacturing\\models\\engines\\asians\\asianeconomyengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19D41BC9-0785-4B7D-92AD-4C7462E0D30C}|CarManufacturing\\CarManufacturing.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\carmanufacturing\\carmanufacturing\\models\\cars\\europeans\\europeansportscar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19D41BC9-0785-4B7D-92AD-4C7462E0D30C}|CarManufacturing\\CarManufacturing.csproj|solutionrelative:carmanufacturing\\models\\cars\\europeans\\europeansportscar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19D41BC9-0785-4B7D-92AD-4C7462E0D30C}|CarManufacturing\\CarManufacturing.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\carmanufacturing\\carmanufacturing\\models\\cars\\asians\\asiansportscar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19D41BC9-0785-4B7D-92AD-4C7462E0D30C}|CarManufacturing\\CarManufacturing.csproj|solutionrelative:carmanufacturing\\models\\cars\\asians\\asiansportscar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19D41BC9-0785-4B7D-92AD-4C7462E0D30C}|CarManufacturing\\CarManufacturing.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\carmanufacturing\\carmanufacturing\\models\\cars\\asians\\asianluxurycar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19D41BC9-0785-4B7D-92AD-4C7462E0D30C}|CarManufacturing\\CarManufacturing.csproj|solutionrelative:carmanufacturing\\models\\cars\\asians\\asianluxurycar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19D41BC9-0785-4B7D-92AD-4C7462E0D30C}|CarManufacturing\\CarManufacturing.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\carmanufacturing\\carmanufacturing\\models\\cars\\asians\\asianeconomycar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19D41BC9-0785-4B7D-92AD-4C7462E0D30C}|CarManufacturing\\CarManufacturing.csproj|solutionrelative:carmanufacturing\\models\\cars\\asians\\asianeconomycar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19D41BC9-0785-4B7D-92AD-4C7462E0D30C}|CarManufacturing\\CarManufacturing.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\carmanufacturing\\carmanufacturing\\factories\\europeancarfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19D41BC9-0785-4B7D-92AD-4C7462E0D30C}|CarManufacturing\\CarManufacturing.csproj|solutionrelative:carmanufacturing\\factories\\europeancarfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19D41BC9-0785-4B7D-92AD-4C7462E0D30C}|CarManufacturing\\CarManufacturing.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\carmanufacturing\\carmanufacturing\\interfaces\\iengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19D41BC9-0785-4B7D-92AD-4C7462E0D30C}|CarManufacturing\\CarManufacturing.csproj|solutionrelative:carmanufacturing\\interfaces\\iengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarManufacturingSimulator.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\CarManufacturing\\CarManufacturing\\Services\\CarManufacturingSimulator.cs",
+              "RelativeDocumentMoniker": "CarManufacturing\\Services\\CarManufacturingSimulator.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\CarManufacturing\\CarManufacturing\\Services\\CarManufacturingSimulator.cs",
+              "RelativeToolTip": "CarManufacturing\\Services\\CarManufacturingSimulator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T14:39:15.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICarFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\CarManufacturing\\CarManufacturing\\Interfaces\\ICarFactory.cs",
+              "RelativeDocumentMoniker": "CarManufacturing\\Interfaces\\ICarFactory.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\CarManufacturing\\CarManufacturing\\Interfaces\\ICarFactory.cs",
+              "RelativeToolTip": "CarManufacturing\\Interfaces\\ICarFactory.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T14:32:30.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EuropeanLuxuryCar.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\CarManufacturing\\CarManufacturing\\Models\\Cars\\Europeans\\EuropeanLuxuryCar.cs",
+              "RelativeDocumentMoniker": "CarManufacturing\\Models\\Cars\\Europeans\\EuropeanLuxuryCar.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\CarManufacturing\\CarManufacturing\\Models\\Cars\\Europeans\\EuropeanLuxuryCar.cs",
+              "RelativeToolTip": "CarManufacturing\\Models\\Cars\\Europeans\\EuropeanLuxuryCar.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T13:41:49.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AsianCarFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\CarManufacturing\\CarManufacturing\\Factories\\AsianCarFactory.cs",
+              "RelativeDocumentMoniker": "CarManufacturing\\Factories\\AsianCarFactory.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\CarManufacturing\\CarManufacturing\\Factories\\AsianCarFactory.cs",
+              "RelativeToolTip": "CarManufacturing\\Factories\\AsianCarFactory.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA1wB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T14:34:35.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EuropeanEconomyCar.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\CarManufacturing\\CarManufacturing\\Models\\Cars\\Europeans\\EuropeanEconomyCar.cs",
+              "RelativeDocumentMoniker": "CarManufacturing\\Models\\Cars\\Europeans\\EuropeanEconomyCar.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\CarManufacturing\\CarManufacturing\\Models\\Cars\\Europeans\\EuropeanEconomyCar.cs",
+              "RelativeToolTip": "CarManufacturing\\Models\\Cars\\Europeans\\EuropeanEconomyCar.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T13:45:14.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\CarManufacturing\\CarManufacturing\\Program.cs",
+              "RelativeDocumentMoniker": "CarManufacturing\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\CarManufacturing\\CarManufacturing\\Program.cs",
+              "RelativeToolTip": "CarManufacturing\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T13:19:59.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ICar.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\CarManufacturing\\CarManufacturing\\Interfaces\\ICar.cs",
+              "RelativeDocumentMoniker": "CarManufacturing\\Interfaces\\ICar.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\CarManufacturing\\CarManufacturing\\Interfaces\\ICar.cs",
+              "RelativeToolTip": "CarManufacturing\\Interfaces\\ICar.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T13:28:54.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EuropeanSportsEngine.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\CarManufacturing\\CarManufacturing\\Models\\Engines\\Europeans\\EuropeanSportsEngine.cs",
+              "RelativeDocumentMoniker": "CarManufacturing\\Models\\Engines\\Europeans\\EuropeanSportsEngine.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\CarManufacturing\\CarManufacturing\\Models\\Engines\\Europeans\\EuropeanSportsEngine.cs",
+              "RelativeToolTip": "CarManufacturing\\Models\\Engines\\Europeans\\EuropeanSportsEngine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T14:27:21.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EuropeanLuxuryEngine.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\CarManufacturing\\CarManufacturing\\Models\\Engines\\Europeans\\EuropeanLuxuryEngine.cs",
+              "RelativeDocumentMoniker": "CarManufacturing\\Models\\Engines\\Europeans\\EuropeanLuxuryEngine.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\CarManufacturing\\CarManufacturing\\Models\\Engines\\Europeans\\EuropeanLuxuryEngine.cs",
+              "RelativeToolTip": "CarManufacturing\\Models\\Engines\\Europeans\\EuropeanLuxuryEngine.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T14:18:04.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EuropeanEconomyEngine.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\CarManufacturing\\CarManufacturing\\Models\\Engines\\Europeans\\EuropeanEconomyEngine.cs",
+              "RelativeDocumentMoniker": "CarManufacturing\\Models\\Engines\\Europeans\\EuropeanEconomyEngine.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\CarManufacturing\\CarManufacturing\\Models\\Engines\\Europeans\\EuropeanEconomyEngine.cs",
+              "RelativeToolTip": "CarManufacturing\\Models\\Engines\\Europeans\\EuropeanEconomyEngine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T14:18:46.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AsiansSportsEngine.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\CarManufacturing\\CarManufacturing\\Models\\Engines\\Asians\\AsiansSportsEngine.cs",
+              "RelativeDocumentMoniker": "CarManufacturing\\Models\\Engines\\Asians\\AsiansSportsEngine.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\CarManufacturing\\CarManufacturing\\Models\\Engines\\Asians\\AsiansSportsEngine.cs",
+              "RelativeToolTip": "CarManufacturing\\Models\\Engines\\Asians\\AsiansSportsEngine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T14:29:42.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AsianLuxuryEngine.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\CarManufacturing\\CarManufacturing\\Models\\Engines\\Asians\\AsianLuxuryEngine.cs",
+              "RelativeDocumentMoniker": "CarManufacturing\\Models\\Engines\\Asians\\AsianLuxuryEngine.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\CarManufacturing\\CarManufacturing\\Models\\Engines\\Asians\\AsianLuxuryEngine.cs",
+              "RelativeToolTip": "CarManufacturing\\Models\\Engines\\Asians\\AsianLuxuryEngine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T14:28:16.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AsianEconomyEngine.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\CarManufacturing\\CarManufacturing\\Models\\Engines\\Asians\\AsianEconomyEngine.cs",
+              "RelativeDocumentMoniker": "CarManufacturing\\Models\\Engines\\Asians\\AsianEconomyEngine.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\CarManufacturing\\CarManufacturing\\Models\\Engines\\Asians\\AsianEconomyEngine.cs",
+              "RelativeToolTip": "CarManufacturing\\Models\\Engines\\Asians\\AsianEconomyEngine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T14:29:04.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EuropeanSportsCar.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\CarManufacturing\\CarManufacturing\\Models\\Cars\\Europeans\\EuropeanSportsCar.cs",
+              "RelativeDocumentMoniker": "CarManufacturing\\Models\\Cars\\Europeans\\EuropeanSportsCar.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\CarManufacturing\\CarManufacturing\\Models\\Cars\\Europeans\\EuropeanSportsCar.cs",
+              "RelativeToolTip": "CarManufacturing\\Models\\Cars\\Europeans\\EuropeanSportsCar.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwBcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T13:48:29.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AsianSportsCar.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\CarManufacturing\\CarManufacturing\\Models\\Cars\\Asians\\AsianSportsCar.cs",
+              "RelativeDocumentMoniker": "CarManufacturing\\Models\\Cars\\Asians\\AsianSportsCar.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\CarManufacturing\\CarManufacturing\\Models\\Cars\\Asians\\AsianSportsCar.cs",
+              "RelativeToolTip": "CarManufacturing\\Models\\Cars\\Asians\\AsianSportsCar.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T13:51:22.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AsianLuxuryCar.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\CarManufacturing\\CarManufacturing\\Models\\Cars\\Asians\\AsianLuxuryCar.cs",
+              "RelativeDocumentMoniker": "CarManufacturing\\Models\\Cars\\Asians\\AsianLuxuryCar.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\CarManufacturing\\CarManufacturing\\Models\\Cars\\Asians\\AsianLuxuryCar.cs",
+              "RelativeToolTip": "CarManufacturing\\Models\\Cars\\Asians\\AsianLuxuryCar.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T13:49:58.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AsianEconomyCar.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\CarManufacturing\\CarManufacturing\\Models\\Cars\\Asians\\AsianEconomyCar.cs",
+              "RelativeDocumentMoniker": "CarManufacturing\\Models\\Cars\\Asians\\AsianEconomyCar.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\CarManufacturing\\CarManufacturing\\Models\\Cars\\Asians\\AsianEconomyCar.cs",
+              "RelativeToolTip": "CarManufacturing\\Models\\Cars\\Asians\\AsianEconomyCar.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T13:50:47.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EuropeanCarFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\CarManufacturing\\CarManufacturing\\Factories\\EuropeanCarFactory.cs",
+              "RelativeDocumentMoniker": "CarManufacturing\\Factories\\EuropeanCarFactory.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\CarManufacturing\\CarManufacturing\\Factories\\EuropeanCarFactory.cs",
+              "RelativeToolTip": "CarManufacturing\\Factories\\EuropeanCarFactory.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T14:33:24.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IEngine.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\CarManufacturing\\CarManufacturing\\Interfaces\\IEngine.cs",
+              "RelativeDocumentMoniker": "CarManufacturing\\Interfaces\\IEngine.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\CarManufacturing\\CarManufacturing\\Interfaces\\IEngine.cs",
+              "RelativeToolTip": "CarManufacturing\\Interfaces\\IEngine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T13:31:35.915Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
