@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\Ecosystem\Ecosystem\bin\Debug\net8.0\Ecosystem.exe
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\Ecosystem\Ecosystem\bin\Debug\net8.0\Ecosystem.deps.json
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\Ecosystem\Ecosystem\bin\Debug\net8.0\Ecosystem.runtimeconfig.json
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\Ecosystem\Ecosystem\bin\Debug\net8.0\Ecosystem.dll
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\Ecosystem\Ecosystem\bin\Debug\net8.0\Ecosystem.pdb
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\Ecosystem\Ecosystem\obj\Debug\net8.0\Ecosystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\Ecosystem\Ecosystem\obj\Debug\net8.0\Ecosystem.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\Ecosystem\Ecosystem\obj\Debug\net8.0\Ecosystem.AssemblyInfo.cs
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\Ecosystem\Ecosystem\obj\Debug\net8.0\Ecosystem.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\Ecosystem\Ecosystem\obj\Debug\net8.0\Ecosystem.dll
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\Ecosystem\Ecosystem\obj\Debug\net8.0\refint\Ecosystem.dll
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\Ecosystem\Ecosystem\obj\Debug\net8.0\Ecosystem.pdb
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\Ecosystem\Ecosystem\obj\Debug\net8.0\Ecosystem.genruntimeconfig.cache
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\Ecosystem\Ecosystem\obj\Debug\net8.0\ref\Ecosystem.dll

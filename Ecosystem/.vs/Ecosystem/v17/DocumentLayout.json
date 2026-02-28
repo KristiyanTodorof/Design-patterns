@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\Ecosystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{711D457F-BA3A-401B-B8D0-DA5752665240}|Ecosystem\\Ecosystem.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\ecosystem\\ecosystem\\services\\ecosystemsimulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{711D457F-BA3A-401B-B8D0-DA5752665240}|Ecosystem\\Ecosystem.csproj|solutionrelative:ecosystem\\services\\ecosystemsimulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711D457F-BA3A-401B-B8D0-DA5752665240}|Ecosystem\\Ecosystem.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\ecosystem\\ecosystem\\models\\jungle\\tiger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{711D457F-BA3A-401B-B8D0-DA5752665240}|Ecosystem\\Ecosystem.csproj|solutionrelative:ecosystem\\models\\jungle\\tiger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711D457F-BA3A-401B-B8D0-DA5752665240}|Ecosystem\\Ecosystem.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\ecosystem\\ecosystem\\models\\jungle\\monkey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{711D457F-BA3A-401B-B8D0-DA5752665240}|Ecosystem\\Ecosystem.csproj|solutionrelative:ecosystem\\models\\jungle\\monkey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711D457F-BA3A-401B-B8D0-DA5752665240}|Ecosystem\\Ecosystem.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\ecosystem\\ecosystem\\models\\jungle\\junglehabitat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{711D457F-BA3A-401B-B8D0-DA5752665240}|Ecosystem\\Ecosystem.csproj|solutionrelative:ecosystem\\models\\jungle\\junglehabitat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711D457F-BA3A-401B-B8D0-DA5752665240}|Ecosystem\\Ecosystem.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\ecosystem\\ecosystem\\interfaces\\ianimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{711D457F-BA3A-401B-B8D0-DA5752665240}|Ecosystem\\Ecosystem.csproj|solutionrelative:ecosystem\\interfaces\\ianimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711D457F-BA3A-401B-B8D0-DA5752665240}|Ecosystem\\Ecosystem.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\ecosystem\\ecosystem\\models\\arctic\\polarbear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{711D457F-BA3A-401B-B8D0-DA5752665240}|Ecosystem\\Ecosystem.csproj|solutionrelative:ecosystem\\models\\arctic\\polarbear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711D457F-BA3A-401B-B8D0-DA5752665240}|Ecosystem\\Ecosystem.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\ecosystem\\ecosystem\\models\\arctic\\penguin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{711D457F-BA3A-401B-B8D0-DA5752665240}|Ecosystem\\Ecosystem.csproj|solutionrelative:ecosystem\\models\\arctic\\penguin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711D457F-BA3A-401B-B8D0-DA5752665240}|Ecosystem\\Ecosystem.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\ecosystem\\ecosystem\\models\\arctic\\arctichabitat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{711D457F-BA3A-401B-B8D0-DA5752665240}|Ecosystem\\Ecosystem.csproj|solutionrelative:ecosystem\\models\\arctic\\arctichabitat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711D457F-BA3A-401B-B8D0-DA5752665240}|Ecosystem\\Ecosystem.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\ecosystem\\ecosystem\\interfaces\\iecosystemfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{711D457F-BA3A-401B-B8D0-DA5752665240}|Ecosystem\\Ecosystem.csproj|solutionrelative:ecosystem\\interfaces\\iecosystemfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711D457F-BA3A-401B-B8D0-DA5752665240}|Ecosystem\\Ecosystem.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\ecosystem\\ecosystem\\factories\\arcticecosystemfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{711D457F-BA3A-401B-B8D0-DA5752665240}|Ecosystem\\Ecosystem.csproj|solutionrelative:ecosystem\\factories\\arcticecosystemfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711D457F-BA3A-401B-B8D0-DA5752665240}|Ecosystem\\Ecosystem.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\ecosystem\\ecosystem\\factories\\jungleecosystemfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{711D457F-BA3A-401B-B8D0-DA5752665240}|Ecosystem\\Ecosystem.csproj|solutionrelative:ecosystem\\factories\\jungleecosystemfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711D457F-BA3A-401B-B8D0-DA5752665240}|Ecosystem\\Ecosystem.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\ecosystem\\ecosystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{711D457F-BA3A-401B-B8D0-DA5752665240}|Ecosystem\\Ecosystem.csproj|solutionrelative:ecosystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711D457F-BA3A-401B-B8D0-DA5752665240}|Ecosystem\\Ecosystem.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\ecosystem\\ecosystem\\interfaces\\ihabitat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{711D457F-BA3A-401B-B8D0-DA5752665240}|Ecosystem\\Ecosystem.csproj|solutionrelative:ecosystem\\interfaces\\ihabitat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IEcosystemFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\Ecosystem\\Ecosystem\\Interfaces\\IEcosystemFactory.cs",
+              "RelativeDocumentMoniker": "Ecosystem\\Interfaces\\IEcosystemFactory.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\Ecosystem\\Ecosystem\\Interfaces\\IEcosystemFactory.cs",
+              "RelativeToolTip": "Ecosystem\\Interfaces\\IEcosystemFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T07:02:04.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ArcticHabitat.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\Ecosystem\\Ecosystem\\Models\\Arctic\\ArcticHabitat.cs",
+              "RelativeDocumentMoniker": "Ecosystem\\Models\\Arctic\\ArcticHabitat.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\Ecosystem\\Ecosystem\\Models\\Arctic\\ArcticHabitat.cs",
+              "RelativeToolTip": "Ecosystem\\Models\\Arctic\\ArcticHabitat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAACCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T06:59:48.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Penguin.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\Ecosystem\\Ecosystem\\Models\\Arctic\\Penguin.cs",
+              "RelativeDocumentMoniker": "Ecosystem\\Models\\Arctic\\Penguin.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\Ecosystem\\Ecosystem\\Models\\Arctic\\Penguin.cs",
+              "RelativeToolTip": "Ecosystem\\Models\\Arctic\\Penguin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T06:57:43.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PolarBear.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\Ecosystem\\Ecosystem\\Models\\Arctic\\PolarBear.cs",
+              "RelativeDocumentMoniker": "Ecosystem\\Models\\Arctic\\PolarBear.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\Ecosystem\\Ecosystem\\Models\\Arctic\\PolarBear.cs",
+              "RelativeToolTip": "Ecosystem\\Models\\Arctic\\PolarBear.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T06:56:01.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAnimal.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\Ecosystem\\Ecosystem\\Interfaces\\IAnimal.cs",
+              "RelativeDocumentMoniker": "Ecosystem\\Interfaces\\IAnimal.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\Ecosystem\\Ecosystem\\Interfaces\\IAnimal.cs",
+              "RelativeToolTip": "Ecosystem\\Interfaces\\IAnimal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T06:49:05.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JungleHabitat.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\Ecosystem\\Ecosystem\\Models\\Jungle\\JungleHabitat.cs",
+              "RelativeDocumentMoniker": "Ecosystem\\Models\\Jungle\\JungleHabitat.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\Ecosystem\\Ecosystem\\Models\\Jungle\\JungleHabitat.cs",
+              "RelativeToolTip": "Ecosystem\\Models\\Jungle\\JungleHabitat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T06:54:10.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Monkey.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\Ecosystem\\Ecosystem\\Models\\Jungle\\Monkey.cs",
+              "RelativeDocumentMoniker": "Ecosystem\\Models\\Jungle\\Monkey.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\Ecosystem\\Ecosystem\\Models\\Jungle\\Monkey.cs",
+              "RelativeToolTip": "Ecosystem\\Models\\Jungle\\Monkey.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T06:53:06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tiger.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\Ecosystem\\Ecosystem\\Models\\Jungle\\Tiger.cs",
+              "RelativeDocumentMoniker": "Ecosystem\\Models\\Jungle\\Tiger.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\Ecosystem\\Ecosystem\\Models\\Jungle\\Tiger.cs",
+              "RelativeToolTip": "Ecosystem\\Models\\Jungle\\Tiger.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T06:51:37.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EcosystemSimulator.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\Ecosystem\\Ecosystem\\Services\\EcosystemSimulator.cs",
+              "RelativeDocumentMoniker": "Ecosystem\\Services\\EcosystemSimulator.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\Ecosystem\\Ecosystem\\Services\\EcosystemSimulator.cs",
+              "RelativeToolTip": "Ecosystem\\Services\\EcosystemSimulator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T07:17:54.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ArcticEcosystemFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\Ecosystem\\Ecosystem\\Factories\\ArcticEcosystemFactory.cs",
+              "RelativeDocumentMoniker": "Ecosystem\\Factories\\ArcticEcosystemFactory.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\Ecosystem\\Ecosystem\\Factories\\ArcticEcosystemFactory.cs",
+              "RelativeToolTip": "Ecosystem\\Factories\\ArcticEcosystemFactory.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwA4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T07:12:08.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "JungleEcosystemFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\Ecosystem\\Ecosystem\\Factories\\JungleEcosystemFactory.cs",
+              "RelativeDocumentMoniker": "Ecosystem\\Factories\\JungleEcosystemFactory.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\Ecosystem\\Ecosystem\\Factories\\JungleEcosystemFactory.cs",
+              "RelativeToolTip": "Ecosystem\\Factories\\JungleEcosystemFactory.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T07:10:16.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\Ecosystem\\Ecosystem\\Program.cs",
+              "RelativeDocumentMoniker": "Ecosystem\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\Ecosystem\\Ecosystem\\Program.cs",
+              "RelativeToolTip": "Ecosystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T06:47:56.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IHabitat.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\Ecosystem\\Ecosystem\\Interfaces\\IHabitat.cs",
+              "RelativeDocumentMoniker": "Ecosystem\\Interfaces\\IHabitat.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\Ecosystem\\Ecosystem\\Interfaces\\IHabitat.cs",
+              "RelativeToolTip": "Ecosystem\\Interfaces\\IHabitat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T06:50:06.289Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
