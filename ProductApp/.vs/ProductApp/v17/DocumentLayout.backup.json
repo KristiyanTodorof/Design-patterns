@@ -1,0 +1,346 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\ProductApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66123D66-8E94-4CD3-951B-E10146E1CF73}|ProductApp\\ProductApp.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\productapp\\productapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66123D66-8E94-4CD3-951B-E10146E1CF73}|ProductApp\\ProductApp.csproj|solutionrelative:productapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66123D66-8E94-4CD3-951B-E10146E1CF73}|ProductApp\\ProductApp.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\productapp\\productapp\\models\\deliveryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66123D66-8E94-4CD3-951B-E10146E1CF73}|ProductApp\\ProductApp.csproj|solutionrelative:productapp\\models\\deliveryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66123D66-8E94-4CD3-951B-E10146E1CF73}|ProductApp\\ProductApp.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\productapp\\productapp\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66123D66-8E94-4CD3-951B-E10146E1CF73}|ProductApp\\ProductApp.csproj|solutionrelative:productapp\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66123D66-8E94-4CD3-951B-E10146E1CF73}|ProductApp\\ProductApp.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\productapp\\productapp\\mediator\\iproductmediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66123D66-8E94-4CD3-951B-E10146E1CF73}|ProductApp\\ProductApp.csproj|solutionrelative:productapp\\mediator\\iproductmediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66123D66-8E94-4CD3-951B-E10146E1CF73}|ProductApp\\ProductApp.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\productapp\\productapp\\memento\\ordermemento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66123D66-8E94-4CD3-951B-E10146E1CF73}|ProductApp\\ProductApp.csproj|solutionrelative:productapp\\memento\\ordermemento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66123D66-8E94-4CD3-951B-E10146E1CF73}|ProductApp\\ProductApp.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\productapp\\productapp\\memento\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66123D66-8E94-4CD3-951B-E10146E1CF73}|ProductApp\\ProductApp.csproj|solutionrelative:productapp\\memento\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66123D66-8E94-4CD3-951B-E10146E1CF73}|ProductApp\\ProductApp.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\productapp\\productapp\\state\\productioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66123D66-8E94-4CD3-951B-E10146E1CF73}|ProductApp\\ProductApp.csproj|solutionrelative:productapp\\state\\productioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66123D66-8E94-4CD3-951B-E10146E1CF73}|ProductApp\\ProductApp.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\productapp\\productapp\\state\\stageonestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66123D66-8E94-4CD3-951B-E10146E1CF73}|ProductApp\\ProductApp.csproj|solutionrelative:productapp\\state\\stageonestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66123D66-8E94-4CD3-951B-E10146E1CF73}|ProductApp\\ProductApp.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\productapp\\productapp\\state\\completedstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66123D66-8E94-4CD3-951B-E10146E1CF73}|ProductApp\\ProductApp.csproj|solutionrelative:productapp\\state\\completedstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66123D66-8E94-4CD3-951B-E10146E1CF73}|ProductApp\\ProductApp.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\productapp\\productapp\\state\\iproductionstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66123D66-8E94-4CD3-951B-E10146E1CF73}|ProductApp\\ProductApp.csproj|solutionrelative:productapp\\state\\iproductionstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66123D66-8E94-4CD3-951B-E10146E1CF73}|ProductApp\\ProductApp.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\productapp\\productapp\\state\\stagetwostate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66123D66-8E94-4CD3-951B-E10146E1CF73}|ProductApp\\ProductApp.csproj|solutionrelative:productapp\\state\\stagetwostate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66123D66-8E94-4CD3-951B-E10146E1CF73}|ProductApp\\ProductApp.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\productapp\\productapp\\state\\stagethreestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66123D66-8E94-4CD3-951B-E10146E1CF73}|ProductApp\\ProductApp.csproj|solutionrelative:productapp\\state\\stagethreestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66123D66-8E94-4CD3-951B-E10146E1CF73}|ProductApp\\ProductApp.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\productapp\\productapp\\memento\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66123D66-8E94-4CD3-951B-E10146E1CF73}|ProductApp\\ProductApp.csproj|solutionrelative:productapp\\memento\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66123D66-8E94-4CD3-951B-E10146E1CF73}|ProductApp\\ProductApp.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\productapp\\productapp\\production\\productionprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66123D66-8E94-4CD3-951B-E10146E1CF73}|ProductApp\\ProductApp.csproj|solutionrelative:productapp\\production\\productionprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66123D66-8E94-4CD3-951B-E10146E1CF73}|ProductApp\\ProductApp.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\productapp\\productapp\\mediator\\productsystemmediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66123D66-8E94-4CD3-951B-E10146E1CF73}|ProductApp\\ProductApp.csproj|solutionrelative:productapp\\mediator\\productsystemmediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66123D66-8E94-4CD3-951B-E10146E1CF73}|ProductApp\\ProductApp.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\productapp\\productapp\\factory method\\productfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66123D66-8E94-4CD3-951B-E10146E1CF73}|ProductApp\\ProductApp.csproj|solutionrelative:productapp\\factory method\\productfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66123D66-8E94-4CD3-951B-E10146E1CF73}|ProductApp\\ProductApp.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\productapp\\productapp\\factory method\\productc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66123D66-8E94-4CD3-951B-E10146E1CF73}|ProductApp\\ProductApp.csproj|solutionrelative:productapp\\factory method\\productc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66123D66-8E94-4CD3-951B-E10146E1CF73}|ProductApp\\ProductApp.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\productapp\\productapp\\factory method\\productb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66123D66-8E94-4CD3-951B-E10146E1CF73}|ProductApp\\ProductApp.csproj|solutionrelative:productapp\\factory method\\productb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66123D66-8E94-4CD3-951B-E10146E1CF73}|ProductApp\\ProductApp.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\productapp\\productapp\\factory method\\producta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66123D66-8E94-4CD3-951B-E10146E1CF73}|ProductApp\\ProductApp.csproj|solutionrelative:productapp\\factory method\\producta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66123D66-8E94-4CD3-951B-E10146E1CF73}|ProductApp\\ProductApp.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\productapp\\productapp\\factory method\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66123D66-8E94-4CD3-951B-E10146E1CF73}|ProductApp\\ProductApp.csproj|solutionrelative:productapp\\factory method\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StageTwoState.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\ProductApp\\ProductApp\\State\\StageTwoState.cs",
+              "RelativeDocumentMoniker": "ProductApp\\State\\StageTwoState.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\ProductApp\\ProductApp\\State\\StageTwoState.cs",
+              "RelativeToolTip": "ProductApp\\State\\StageTwoState.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvwwAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T06:07:49.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductionContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\ProductApp\\ProductApp\\State\\ProductionContext.cs",
+              "RelativeDocumentMoniker": "ProductApp\\State\\ProductionContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\ProductApp\\ProductApp\\State\\ProductionContext.cs",
+              "RelativeToolTip": "ProductApp\\State\\ProductionContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T06:09:54.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\ProductApp\\ProductApp\\Program.cs",
+              "RelativeDocumentMoniker": "ProductApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\ProductApp\\ProductApp\\Program.cs",
+              "RelativeToolTip": "ProductApp\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T05:46:08.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\ProductApp\\ProductApp\\Memento\\Order.cs",
+              "RelativeDocumentMoniker": "ProductApp\\Memento\\Order.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\ProductApp\\ProductApp\\Memento\\Order.cs",
+              "RelativeToolTip": "ProductApp\\Memento\\Order.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAxwBkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T06:20:18.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderMemento.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\ProductApp\\ProductApp\\Memento\\OrderMemento.cs",
+              "RelativeDocumentMoniker": "ProductApp\\Memento\\OrderMemento.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\ProductApp\\ProductApp\\Memento\\OrderMemento.cs",
+              "RelativeToolTip": "ProductApp\\Memento\\OrderMemento.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T06:19:19.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProductMediator.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\ProductApp\\ProductApp\\Mediator\\IProductMediator.cs",
+              "RelativeDocumentMoniker": "ProductApp\\Mediator\\IProductMediator.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\ProductApp\\ProductApp\\Mediator\\IProductMediator.cs",
+              "RelativeToolTip": "ProductApp\\Mediator\\IProductMediator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T06:24:33.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\ProductApp\\ProductApp\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "ProductApp\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\ProductApp\\ProductApp\\Models\\Client.cs",
+              "RelativeToolTip": "ProductApp\\Models\\Client.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T06:25:24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeliveryService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\ProductApp\\ProductApp\\Models\\DeliveryService.cs",
+              "RelativeDocumentMoniker": "ProductApp\\Models\\DeliveryService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\ProductApp\\ProductApp\\Models\\DeliveryService.cs",
+              "RelativeToolTip": "ProductApp\\Models\\DeliveryService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T06:28:04.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StageOneState.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\ProductApp\\ProductApp\\State\\StageOneState.cs",
+              "RelativeDocumentMoniker": "ProductApp\\State\\StageOneState.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\ProductApp\\ProductApp\\State\\StageOneState.cs",
+              "RelativeToolTip": "ProductApp\\State\\StageOneState.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T06:01:57.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IProductionState.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\ProductApp\\ProductApp\\State\\IProductionState.cs",
+              "RelativeDocumentMoniker": "ProductApp\\State\\IProductionState.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\ProductApp\\ProductApp\\State\\IProductionState.cs",
+              "RelativeToolTip": "ProductApp\\State\\IProductionState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T05:58:22.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CompletedState.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\ProductApp\\ProductApp\\State\\CompletedState.cs",
+              "RelativeDocumentMoniker": "ProductApp\\State\\CompletedState.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\ProductApp\\ProductApp\\State\\CompletedState.cs",
+              "RelativeToolTip": "ProductApp\\State\\CompletedState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T06:09:16.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StageThreeState.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\ProductApp\\ProductApp\\State\\StageThreeState.cs",
+              "RelativeDocumentMoniker": "ProductApp\\State\\StageThreeState.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\ProductApp\\ProductApp\\State\\StageThreeState.cs",
+              "RelativeToolTip": "ProductApp\\State\\StageThreeState.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAcwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T06:08:34.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\ProductApp\\ProductApp\\Memento\\Cart.cs",
+              "RelativeDocumentMoniker": "ProductApp\\Memento\\Cart.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\ProductApp\\ProductApp\\Memento\\Cart.cs",
+              "RelativeToolTip": "ProductApp\\Memento\\Cart.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAcwBYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T06:22:30.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductionProcess.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\ProductApp\\ProductApp\\Production\\ProductionProcess.cs",
+              "RelativeDocumentMoniker": "ProductApp\\Production\\ProductionProcess.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\ProductApp\\ProductApp\\Production\\ProductionProcess.cs",
+              "RelativeToolTip": "ProductApp\\Production\\ProductionProcess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T06:11:37.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductSystemMediator.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\ProductApp\\ProductApp\\Mediator\\ProductSystemMediator.cs",
+              "RelativeDocumentMoniker": "ProductApp\\Mediator\\ProductSystemMediator.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\ProductApp\\ProductApp\\Mediator\\ProductSystemMediator.cs",
+              "RelativeToolTip": "ProductApp\\Mediator\\ProductSystemMediator.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAA9wEcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T06:30:10.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\ProductApp\\ProductApp\\Factory Method\\ProductFactory.cs",
+              "RelativeDocumentMoniker": "ProductApp\\Factory Method\\ProductFactory.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\ProductApp\\ProductApp\\Factory Method\\ProductFactory.cs",
+              "RelativeToolTip": "ProductApp\\Factory Method\\ProductFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T05:56:06.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductC.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\ProductApp\\ProductApp\\Factory Method\\ProductC.cs",
+              "RelativeDocumentMoniker": "ProductApp\\Factory Method\\ProductC.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\ProductApp\\ProductApp\\Factory Method\\ProductC.cs",
+              "RelativeToolTip": "ProductApp\\Factory Method\\ProductC.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T05:54:05.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductB.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\ProductApp\\ProductApp\\Factory Method\\ProductB.cs",
+              "RelativeDocumentMoniker": "ProductApp\\Factory Method\\ProductB.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\ProductApp\\ProductApp\\Factory Method\\ProductB.cs",
+              "RelativeToolTip": "ProductApp\\Factory Method\\ProductB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T05:51:50.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductA.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\ProductApp\\ProductApp\\Factory Method\\ProductA.cs",
+              "RelativeDocumentMoniker": "ProductApp\\Factory Method\\ProductA.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\ProductApp\\ProductApp\\Factory Method\\ProductA.cs",
+              "RelativeToolTip": "ProductApp\\Factory Method\\ProductA.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T05:49:00.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IProduct.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\ProductApp\\ProductApp\\Factory Method\\IProduct.cs",
+              "RelativeDocumentMoniker": "ProductApp\\Factory Method\\IProduct.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\ProductApp\\ProductApp\\Factory Method\\IProduct.cs",
+              "RelativeToolTip": "ProductApp\\Factory Method\\IProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T05:47:22.592Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
