@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\MoviesWithDP\Movies\bin\Debug\net8.0\Movies.exe
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\MoviesWithDP\Movies\bin\Debug\net8.0\Movies.deps.json
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\MoviesWithDP\Movies\bin\Debug\net8.0\Movies.runtimeconfig.json
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\MoviesWithDP\Movies\bin\Debug\net8.0\Movies.dll
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\MoviesWithDP\Movies\bin\Debug\net8.0\Movies.pdb
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\MoviesWithDP\Movies\obj\Debug\net8.0\Movies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\MoviesWithDP\Movies\obj\Debug\net8.0\Movies.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\MoviesWithDP\Movies\obj\Debug\net8.0\Movies.AssemblyInfo.cs
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\MoviesWithDP\Movies\obj\Debug\net8.0\Movies.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\MoviesWithDP\Movies\obj\Debug\net8.0\Movies.dll
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\MoviesWithDP\Movies\obj\Debug\net8.0\refint\Movies.dll
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\MoviesWithDP\Movies\obj\Debug\net8.0\Movies.pdb
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\MoviesWithDP\Movies\obj\Debug\net8.0\Movies.genruntimeconfig.cache
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\MoviesWithDP\Movies\obj\Debug\net8.0\ref\Movies.dll

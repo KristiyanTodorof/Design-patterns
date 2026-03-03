@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\MoviesWithDP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C6743DD-D1B6-440B-827E-C9892FCBAECC}|Movies\\Movies.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\movieswithdp\\movies\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C6743DD-D1B6-440B-827E-C9892FCBAECC}|Movies\\Movies.csproj|solutionrelative:movies\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C6743DD-D1B6-440B-827E-C9892FCBAECC}|Movies\\Movies.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\movieswithdp\\movies\\models\\movietickets\\premiummovieticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C6743DD-D1B6-440B-827E-C9892FCBAECC}|Movies\\Movies.csproj|solutionrelative:movies\\models\\movietickets\\premiummovieticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C6743DD-D1B6-440B-827E-C9892FCBAECC}|Movies\\Movies.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\movieswithdp\\movies\\storage\\databaseticketstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C6743DD-D1B6-440B-827E-C9892FCBAECC}|Movies\\Movies.csproj|solutionrelative:movies\\storage\\databaseticketstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C6743DD-D1B6-440B-827E-C9892FCBAECC}|Movies\\Movies.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\movieswithdp\\movies\\interfaces\\iticketstorageimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C6743DD-D1B6-440B-827E-C9892FCBAECC}|Movies\\Movies.csproj|solutionrelative:movies\\interfaces\\iticketstorageimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C6743DD-D1B6-440B-827E-C9892FCBAECC}|Movies\\Movies.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\movieswithdp\\movies\\models\\movieticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C6743DD-D1B6-440B-827E-C9892FCBAECC}|Movies\\Movies.csproj|solutionrelative:movies\\models\\movieticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C6743DD-D1B6-440B-827E-C9892FCBAECC}|Movies\\Movies.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\movieswithdp\\movies\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C6743DD-D1B6-440B-827E-C9892FCBAECC}|Movies\\Movies.csproj|solutionrelative:movies\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C6743DD-D1B6-440B-827E-C9892FCBAECC}|Movies\\Movies.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\movieswithdp\\movies\\factories\\movieticketfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C6743DD-D1B6-440B-827E-C9892FCBAECC}|Movies\\Movies.csproj|solutionrelative:movies\\factories\\movieticketfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C6743DD-D1B6-440B-827E-C9892FCBAECC}|Movies\\Movies.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\movieswithdp\\movies\\services\\movieticketingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C6743DD-D1B6-440B-827E-C9892FCBAECC}|Movies\\Movies.csproj|solutionrelative:movies\\services\\movieticketingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C6743DD-D1B6-440B-827E-C9892FCBAECC}|Movies\\Movies.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\movieswithdp\\movies\\models\\movietickets\\standardmovieticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C6743DD-D1B6-440B-827E-C9892FCBAECC}|Movies\\Movies.csproj|solutionrelative:movies\\models\\movietickets\\standardmovieticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MovieTicketingSystem.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\MoviesWithDP\\Movies\\Services\\MovieTicketingSystem.cs",
+              "RelativeDocumentMoniker": "Movies\\Services\\MovieTicketingSystem.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\MoviesWithDP\\Movies\\Services\\MovieTicketingSystem.cs",
+              "RelativeToolTip": "Movies\\Services\\MovieTicketingSystem.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwB0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T07:42:43.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MovieTicketFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\MoviesWithDP\\Movies\\Factories\\MovieTicketFactory.cs",
+              "RelativeDocumentMoniker": "Movies\\Factories\\MovieTicketFactory.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\MoviesWithDP\\Movies\\Factories\\MovieTicketFactory.cs",
+              "RelativeToolTip": "Movies\\Factories\\MovieTicketFactory.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T07:37:14.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PremiumMovieTicket.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\MoviesWithDP\\Movies\\Models\\MovieTickets\\PremiumMovieTicket.cs",
+              "RelativeDocumentMoniker": "Movies\\Models\\MovieTickets\\PremiumMovieTicket.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\MoviesWithDP\\Movies\\Models\\MovieTickets\\PremiumMovieTicket.cs",
+              "RelativeToolTip": "Movies\\Models\\MovieTickets\\PremiumMovieTicket.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T07:32:41.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StandardMovieTicket.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\MoviesWithDP\\Movies\\Models\\MovieTickets\\StandardMovieTicket.cs",
+              "RelativeDocumentMoniker": "Movies\\Models\\MovieTickets\\StandardMovieTicket.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\MoviesWithDP\\Movies\\Models\\MovieTickets\\StandardMovieTicket.cs",
+              "RelativeToolTip": "Movies\\Models\\MovieTickets\\StandardMovieTicket.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAEwBkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T07:29:32.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DatabaseTicketStorage.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\MoviesWithDP\\Movies\\Storage\\DatabaseTicketStorage.cs",
+              "RelativeDocumentMoniker": "Movies\\Storage\\DatabaseTicketStorage.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\MoviesWithDP\\Movies\\Storage\\DatabaseTicketStorage.cs",
+              "RelativeToolTip": "Movies\\Storage\\DatabaseTicketStorage.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T07:19:47.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ITicketStorageImplementation.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\MoviesWithDP\\Movies\\Interfaces\\ITicketStorageImplementation.cs",
+              "RelativeDocumentMoniker": "Movies\\Interfaces\\ITicketStorageImplementation.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\MoviesWithDP\\Movies\\Interfaces\\ITicketStorageImplementation.cs",
+              "RelativeToolTip": "Movies\\Interfaces\\ITicketStorageImplementation.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T07:17:27.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MovieTicket.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\MoviesWithDP\\Movies\\Models\\MovieTicket.cs",
+              "RelativeDocumentMoniker": "Movies\\Models\\MovieTicket.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\MoviesWithDP\\Movies\\Models\\MovieTicket.cs",
+              "RelativeToolTip": "Movies\\Models\\MovieTicket.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T06:59:13.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\MoviesWithDP\\Movies\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Movies\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\MoviesWithDP\\Movies\\Models\\Customer.cs",
+              "RelativeToolTip": "Movies\\Models\\Customer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T06:56:18.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\MoviesWithDP\\Movies\\Program.cs",
+              "RelativeDocumentMoniker": "Movies\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\MoviesWithDP\\Movies\\Program.cs",
+              "RelativeToolTip": "Movies\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T06:55:53.32Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
